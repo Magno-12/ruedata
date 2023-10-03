@@ -55,3 +55,13 @@ La aplicación se ejecutará en http://localhost:8000.
 
 4. Obtener el código secreto más corto
 La API procesará el archivo de registro de teclas y encontrará el código secreto más corto. El resultado se mostrará en la respuesta JSON.
+
+## Diagrama de flujo
+
+![image](https://github.com/Magno-12/ruedata/assets/66977118/16c50d7a-7e59-41e6-ae9c-3a6f0247a02a)
+
+## Diagrama de procesos
+
+![image](https://github.com/Magno-12/ruedata/assets/66977118/a277c6bd-d4a2-4df4-9baf-ca07666b6645)
+
+
