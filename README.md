@@ -1,6 +1,6 @@
 # FastAPI Keylogger Analyzer
 
-Este proyecto es una API desarrollada en FastAPI que permite subir archivos de registro de teclas (keylog) en formato de texto (.txt) y encontrar el código secreto más corto dentro de los registros. También proporciona documentación automática de la API y una forma de probarla utilizando Postman.
+Este proyecto es una API desarrollada en FastAPI que permite subir archivos de registro de teclas (keylog) en formato de texto (.txt) y encontrar el código secreto más corto dentro de los registros. También proporciona documentación automática de la API y una forma de probarla utilizando Postman, elegí FastAPI porque permite crear APIs web en Python de forma eficiente y con alta velocidad de desarrollo. La simplicidad de su sintaxis y su documentación automática hacen que la implementación sea rápida y clara. Además, su rendimiento y soporte para características modernas son ideales para una solución rapida.
 
 ## Requisitos para correr el proyecto
 
